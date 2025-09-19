@@ -1,1 +1,4 @@
+# SURE-TRUST-PROJECTS-G4-PCB
+
+
 This USB-C to Serial converter board is built around the reliable CH340C interface IC, designed for programming and debugging microcontrollers. It provides standard serial signals (TX, RX, DTR) with selectable logic levels of 3.3V or 5V. Integrated TX/RX status LEDs offer visual indication of data transmission and reception. Compact and versatile, the board is well-suited for development and diagnostic applications
